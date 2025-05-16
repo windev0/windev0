@@ -1,5 +1,4 @@
-[![Welcome Banner](![image](https://github.com/user-attachments/assets/07343279-da45-434f-8416-612567dbdb08)
-)](https://windev0.github.io/portofolio/)
+[![Welcome Banner](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)](https://windev0.github.io/portofolio/)
 
 <h1 align="center">Hi 👋, I'm Winner AWOUNO</h1>
 <h3 align="center">Full Stack Developer from TOGO | Node.js, React, Flutter | Helping people turn ideas into clean, fast & scalable apps</h3>
