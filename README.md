@@ -1,4 +1,4 @@
-[![Welcome Banner](https://th.bing.com/th/id/OIP.O8ybsDN-LhQZnKMiolgTjAHaEW?cb=iwp2&rs=1&pid=ImgDetMain)](https://windev0.github.io/portofolio/)
+[![Welcome Banner](https://www.canva.com/design/DAGnmfvXqr4/LRb2xv1kSTbkZXZJHQnh7Q/view?utm_content=DAGnmfvXqr4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7f0d2177b0)](https://windev0.github.io/portofolio/)
 
 <h1 align="center">Hi 👋, I'm Winner AWOUNO</h1>
 <h3 align="center">Full Stack Developer from TOGO | Node.js, React, Flutter | Helping people turn ideas into clean, fast & scalable apps</h3>
