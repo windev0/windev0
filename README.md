@@ -1,6 +1,9 @@
+[![Welcome Banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png)](https://yourportfolio.com)
+
 <h1 align="center">Hi 👋, I'm Winner AWOUNO</h1>
 <h3 align="center">Full Stack Developer from TOGO | Node.js, React, Flutter | Helping people turn ideas into clean, fast & scalable apps</h3>
 
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=windev0&label=Profile%20views&color=0e75b6&style=flat" alt="windev0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=windev0" alt="windev0" /></a> </p>
